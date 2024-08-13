@@ -4,3 +4,6 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/burddan/st
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/burddan/nvim
